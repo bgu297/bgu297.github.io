@@ -1,0 +1,41 @@
+body {
+  background-color: #fff8ee;
+}
+
+h1 {
+  color:#8e5c1c;
+  text-align: center; 
+  font-family: monospace;
+  font-size: 150px;
+}
+
+h3 {
+  color:brown;
+  font-family: monospace;
+  font-size: 80px;
+  text-align: left;
+}
+
+p {
+  font-size: 40px;
+  font-family: cursive;
+  color: black;
+}
+
+h5 {
+  color: #ef0101;
+  font-size: 40px;
+  font-family: cursive;
+  text-align: center; 
+}
+
+h6 {
+  color: black;
+  font-size: 20px;
+  font-family: cursive;
+  text-align: left;  
+}
+
+img {
+  width: 800px
+}
