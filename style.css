@@ -6,25 +6,25 @@ h1 {
   color:#8e5c1c;
   text-align: center; 
   font-family: monospace;
-  font-size: 100px;
+  font-size: 50px;
 }
 
 h3 {
   color:brown;
   font-family: monospace;
-  font-size: 50px;
+  font-size: 25px;
   text-align: left;
 }
 
 p {
-  font-size: 30px;
+  font-size: 20px;
   font-family: cursive;
   color: black;
 }
 
 h5 {
   color: #ef0101;
-  font-size: 40px;
+  font-size: 20px;
   font-family: cursive;
   text-align: center; 
 }
@@ -37,5 +37,5 @@ h6 {
 }
 
 img {
-  width: 200px
+  width: 400px
 }
