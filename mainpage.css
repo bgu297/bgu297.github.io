@@ -1,0 +1,24 @@
+.logo {width: 300px;}
+
+body {background:#e0b2a3; }
+
+p {
+  color:black;
+  font-family: cursive;}
+
+h1 {font-family: cursive;}
+
+#welcome {color: #ff0101;}
+
+.gry {color: gold;}
+#gry {color: #de0606;}
+
+.huff {color: black;}
+#huff {color: yellow;}
+
+.sly {color: dimgray;}
+#sly {color: darkgreen;}
+
+.rav {color: #502929;}
+#rav {color: #091e55;}
+
