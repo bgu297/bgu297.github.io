@@ -39,7 +39,8 @@ h6 {
 img {
   width: 400px
 }
-.item1 { grid-area: header; }
+
+.item1 { grid-area: header}
 .item2 { grid-area: menu; }
 .item3 { grid-area: main; }
 .item4 { grid-area: right; }
@@ -49,8 +50,8 @@ img {
   display: grid;
   grid-template-areas:
     'header header header header header header'
-    'menu main main main right right'
-    'menu footer footer footer footer footer';
+    'menu menu menu main main main'
+    'footer footer footer right right right';
   grid-gap: 10px;
   background-color: brown;
   padding: 10px;
